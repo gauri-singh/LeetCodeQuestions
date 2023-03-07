@@ -1,2 +1,3 @@
 # LeetCodeQuestions
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+Practicing Competitive coding one question at a time :)
+LeetCode profile : gauri97 
