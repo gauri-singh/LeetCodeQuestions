@@ -35,13 +35,13 @@ public:
                 curr->next =list2;
                 list2 = list2->next; 
             }
-            curr =curr->next;
+            curr = curr->next;
         }
-        if(list1){
-           curr->next = list1;
-        }
-        if(list2){
+        if(!list1){
            curr->next = list2;
+        }
+        else{
+           curr->next = list1;
         }
         return head;
     }
