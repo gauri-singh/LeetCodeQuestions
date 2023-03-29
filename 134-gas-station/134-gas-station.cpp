@@ -9,7 +9,7 @@ public:
             sumCost+=cost[i];
         }
         if(sumGas<sumCost){
-            //solution can't exist
+            //solution can't exist since total gas< total cost
             return -1;
         }
         //solution must exist
@@ -22,6 +22,7 @@ public:
                 start=i+1;
             }
         }
+        // we don't go in a loop because we know a solution exists and that if we found one element in diff array where gas-cost>0 and its not reset till end of the array it means that is the answer  
         return start;
     }
        
