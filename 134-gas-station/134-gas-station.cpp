@@ -1,18 +1,28 @@
 class Solution {
 public:
     int canCompleteCircuit(vector<int>& gas, vector<int>& cost) {
-        int n = gas.size();
-        int start = 0, totalGas = 0, minGas = INT_MAX;
-        for (int i = 0; i < n; i++) {
-            totalGas += gas[i] - cost[i];
-            if (totalGas < minGas) {
-                minGas = totalGas;
-                start = i + 1;
-            }
+        int n = gas.size(),start=0,sumGas=0,sumCost=0,total=0;
+        vector<int> diff(n,0);
+        for(int i=0;i<n;i++){
+            diff[i]=gas[i]-cost[i];
+            sumGas+=gas[i];
+            sumCost+=cost[i];
         }
-        if (totalGas < 0) {
+        if(sumGas<sumCost){
+            //solution can't exist
             return -1;
         }
-        return start % n;
+        //solution must exist
+        for(int i=0;i<n;i++){
+            
+            total+=diff[i];
+            if(total<0){
+                //find new start position because this one has failed.
+                total =0;
+                start=i+1;
+            }
+        }
+        return start;
     }
+       
 };
