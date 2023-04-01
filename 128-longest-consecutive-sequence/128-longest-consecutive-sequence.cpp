@@ -13,10 +13,10 @@ public:
                 //its predecessor doesnt exist
                 currStreak =0;
                 currNum=num;
-                 while(set.count(currNum)){
-                currStreak++;
-                currNum++;
-            }
+                while(set.count(currNum)){
+                    currStreak++;
+                    currNum++;
+                }
             }
            
             maxStreak = max(maxStreak,currStreak);
