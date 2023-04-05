@@ -7,9 +7,8 @@ public:
         for(int i=0;i<nums.size();i++){
             sum+=nums[i]==1?1:-1;
             if(sum==0){
-                if(longestSub<i+1){
-                    longestSub=i+1;
-                }
+                //include all the 
+                longestSub=max(longestSub,i+1);
                 continue;
             }
             it=map.find(sum);
