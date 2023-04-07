@@ -11,7 +11,8 @@ public:
             sum+=nums[i];
             target =sum-k;
             //since we are going linearly and not pre calculating the prefix sum
-            // we know that the target would exist only if it is in the subarray
+            // we know that the target would exist only if it in the current subarray starting from i
+            
             it = map.find(target);
             if(it!=map.end()){
                 cnt+=map[target];
