@@ -11,7 +11,7 @@ public:
         for(int i=0;i<nums.size();i++){
             sum+=nums[i]==1?1:-1;
             if(sum==0){
-                //sum fro
+                //sum from 0 to i
                 longestSub=max(longestSub,i+1);
                 continue;
             }
