@@ -10,11 +10,12 @@ public:
             return;
         }
         //including candidate[i]
+        
+        //not including candidate[i]
+        
+        dfs(candidates,target,i+1,total,cur);
         cur.push_back(candidates[i]);
         dfs(candidates,target,i,total+candidates[i],cur);
-        //not including candidate[i]
-        cur.pop_back();
-        dfs(candidates,target,i+1,total,cur);
     }
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
         dfs(candidates,target,0,0,{});
