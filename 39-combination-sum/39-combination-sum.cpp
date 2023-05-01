@@ -9,12 +9,10 @@ public:
         if(i>=candidates.size() || total>target){
             return;
         }
-        //including candidate[i]
-        
-        //not including candidate[i]
-        
+       //not including candidate[i]
         dfs(candidates,target,i+1,total,cur);
         cur.push_back(candidates[i]);
+        //including candidate[i]
         dfs(candidates,target,i,total+candidates[i],cur);
     }
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
