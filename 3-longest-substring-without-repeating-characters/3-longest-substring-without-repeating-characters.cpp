@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int lengthOfLongestSubstring(string s) {
+   /* int lengthOfLongestSubstring(string s) {
         unordered_set<char> current;
         int left=0,right=0,ans=0;
         while(right<s.length()){
@@ -18,8 +18,8 @@ public:
         }
         return ans;
         
-    }
-    /*int lengthOfLongestSubstring(string s) {
+    }*/
+    int lengthOfLongestSubstring(string s) {
         int maxCount =0;
         unordered_set <char> set;
         int left =0;int right =0;
@@ -32,5 +32,5 @@ public:
             maxCount=max(maxCount,(right-left+1));
         }
         return maxCount;
-    }*/
+    }
 };
