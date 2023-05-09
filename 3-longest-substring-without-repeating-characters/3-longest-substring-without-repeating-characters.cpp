@@ -11,8 +11,7 @@ public:
             }
             else{
                 current.insert(s[right]);
-                int curr_len=current.size();
-                ans=max(ans,curr_len);
+                ans=max(ans,right-left+1);
                 right++;
             }
             
