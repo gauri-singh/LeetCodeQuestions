@@ -27,8 +27,6 @@ public:
                 break;
             }
         }
-        cout<<num<<endl;
-        cout<<"this is ans "<<ans<<endl;
         for(int i=0;i<num.length();i++){
             int digit =num[i]-'0';
            if(ans > INT_MAX/10 || (ans == INT_MAX/10 && digit > INT_MAX%10)){
@@ -36,7 +34,6 @@ public:
                 return ans;
             }
             ans=(ans*10+digit);
-            cout<<"this is ans "<<ans<<endl;
         }
         ans = sign=='-'? ans*-1: ans;
         return ans;
