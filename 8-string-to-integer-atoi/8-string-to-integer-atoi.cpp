@@ -1,37 +1,25 @@
 class Solution {
-  public: int myAtoi(string s) {
-    char sign = '+';
-    int ans = 0;
-    int mod = 1e9 + 7;
-    string num;
-    bool signEncountered = false;
-    for (auto ch: s) {
-      if (ch == '-' || ch == '+') {
-        if (signEncountered || num.length() > 0) { // sign character encountered after digits or another sign
-          break;
+public:
+    int myAtoi(string s) {
+        int len = s.size();
+        double num = 0;
+        int i=0;
+        while(s[i] == ' '){
+            i++;
         }
-        sign = ch;
-        signEncountered = true;
-      } else if (ch >= '0' && ch <= '9') {
-        num += ch;
-      } else if (ch == ' ') {
-        if (signEncountered || num.length() > 0) { // space encountered after digits or another sign
-          break;
+        bool positive = s[i] == '+';
+        bool negative = s[i] == '-';
+        positive == true ? i++ : i;
+        negative == true ? i++ : i;
+        while(i < len && s[i] >= '0' && s[i] <= '9'){
+            num = num*10 + (s[i]-'0');
+            i++;
         }
-        continue;
-      } else {
-        break;
-      }
+        num = negative ? -num : num;
+        cout<<num<<endl;
+        num = (num > INT_MAX) ? INT_MAX : num;
+        num = (num < INT_MIN) ? INT_MIN : num;
+        cout<<num<<endl;
+        return int(num);
     }
-    for (int i = 0; i < num.length(); i++) {
-      int digit = num[i] - '0';
-      if (ans > INT_MAX / 10 || (ans == INT_MAX / 10 && digit > INT_MAX % 10)) {
-        ans = sign == '-' ? INT_MIN : INT_MAX;
-        return ans;
-      }
-      ans = (ans * 10 + digit);
-    }
-    ans = sign == '-' ? ans * -1 : ans;
-    return ans;
-  }
 };
