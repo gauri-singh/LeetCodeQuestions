@@ -30,6 +30,7 @@ public:
                 left++;
             }//while loop
         }
+        // when s and t are of same size but different characters so that the loop didnt even execute
         if(resLen==INT_MAX)
             return "";
         return s.substr(res[0],res[1]-res[0]+1);
