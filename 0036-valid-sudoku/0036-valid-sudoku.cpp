@@ -16,7 +16,7 @@ public:
                 if(col[c].count(ch)){
                    return false;
                }
-               pair<int,int> subgridKey=make_pair(r/3,c/3);
+               pair<int,int> subgridKey={r/ 3,c/ 3};
                 if(subgrid[subgridKey].count(ch)){
                    return false;
                }
