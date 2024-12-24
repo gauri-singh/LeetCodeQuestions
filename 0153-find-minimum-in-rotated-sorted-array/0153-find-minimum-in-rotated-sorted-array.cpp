@@ -3,7 +3,7 @@ public:
     int findMin(vector<int>& nums) {
         int l=0,r=nums.size()-1,mid,ans=nums[0];
         while(l<=r){
-            if(nums[l]<nums[r]){
+            if(nums[l]<=nums[r]){
                 //left to right is sorted
                 ans=min(ans,nums[l]);
             }
