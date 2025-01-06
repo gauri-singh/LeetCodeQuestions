@@ -39,4 +39,12 @@ LeetCode profile : gauri97
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0217-contains-duplicate) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
