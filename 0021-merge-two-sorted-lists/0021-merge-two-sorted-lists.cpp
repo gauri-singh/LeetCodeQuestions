@@ -11,8 +11,8 @@
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        ListNode dummy(0); // anchor for inserting and having the head, is a non pointer type;
-        ListNode* node =&dummy; // our iterator , pointing at start right now
+        ListNode* dummy = new ListNode(0,nullptr); // anchor for inserting and having the head, is a non pointer type;
+        ListNode* node =dummy; // our iterator , pointing at start right now
         while(list1 && list2){
             if(list1->val <list2->val){
                 node->next=list1; //point to the list1's current node
@@ -28,6 +28,6 @@ public:
         }else if(list2){
             node->next=list2;
         }
-        return dummy.next; // return anchor and since it is non pointer, we have to do it like this
+        return dummy->next; // return anchor and since it is non pointer, we have to do it like this
     }
 };
