@@ -16,6 +16,7 @@ LeetCode profile : gauri97
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0143-reorder-list) |
 | [0567-permutation-in-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0567-permutation-in-string) |
 ## String
 |  |
@@ -46,10 +47,16 @@ LeetCode profile : gauri97
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
