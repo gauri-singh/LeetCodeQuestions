@@ -19,6 +19,7 @@ LeetCode profile : gauri97
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0143-reorder-list) |
+| [0287-find-the-duplicate-number](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0567-permutation-in-string) |
 ## String
 |  |
@@ -36,6 +37,7 @@ LeetCode profile : gauri97
 | [0001-two-sum](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0217-contains-duplicate) |
+| [0287-find-the-duplicate-number](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -69,4 +71,12 @@ LeetCode profile : gauri97
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0002-add-two-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
