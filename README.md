@@ -10,6 +10,7 @@ LeetCode profile : gauri97
 | [0001-two-sum](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0001-two-sum) |
 | [0138-copy-list-with-random-pointer](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0567-permutation-in-string) |
@@ -55,6 +56,7 @@ LeetCode profile : gauri97
 | [0138-copy-list-with-random-pointer](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -79,4 +81,12 @@ LeetCode profile : gauri97
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0287-find-the-duplicate-number) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
