@@ -8,6 +8,7 @@ LeetCode profile : gauri97
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0001-two-sum) |
+| [0076-minimum-window-substring](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0146-lru-cache) |
@@ -25,11 +26,13 @@ LeetCode profile : gauri97
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0567-permutation-in-string) |
 ## Array
