@@ -25,6 +25,7 @@ LeetCode profile : gauri97
 | [0141-linked-list-cycle](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0143-reorder-list) |
 | [0287-find-the-duplicate-number](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0567-permutation-in-string) |
 ## String
 |  |
@@ -63,6 +64,7 @@ LeetCode profile : gauri97
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0217-contains-duplicate) |
+| [0295-find-median-from-data-stream](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0295-find-median-from-data-stream) |
 | [0621-task-scheduler](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1014-k-closest-points-to-origin) |
 ## Linked List
@@ -108,6 +110,7 @@ LeetCode profile : gauri97
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0146-lru-cache) |
+| [0295-find-median-from-data-stream](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -128,6 +131,7 @@ LeetCode profile : gauri97
 | [0023-merge-k-sorted-lists](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -227,6 +231,7 @@ LeetCode profile : gauri97
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Geometry
 |  |
