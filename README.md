@@ -45,6 +45,7 @@ LeetCode profile : gauri97
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0001-two-sum) |
+| [0078-subsets](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -105,6 +106,7 @@ LeetCode profile : gauri97
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0287-find-the-duplicate-number) |
 ## Design
 |  |
@@ -250,4 +252,8 @@ LeetCode profile : gauri97
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0621-task-scheduler) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
