@@ -49,6 +49,7 @@ LeetCode profile : gauri97
 | [0040-combination-sum-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -110,6 +111,7 @@ LeetCode profile : gauri97
 |  |
 | ------- |
 | [0078-subsets](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0287-find-the-duplicate-number) |
 ## Design
 |  |
@@ -262,4 +264,5 @@ LeetCode profile : gauri97
 | [0040-combination-sum-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
