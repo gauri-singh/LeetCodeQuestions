@@ -67,6 +67,7 @@ LeetCode profile : gauri97
 | [0621-task-scheduler](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0695-max-area-of-island) |
 | [1014-k-closest-points-to-origin](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1014-k-closest-points-to-origin) |
+| [1036-rotting-oranges](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1127-last-stone-weight) |
 ## Dynamic Programming
 |  |
@@ -219,6 +220,7 @@ LeetCode profile : gauri97
 | [0226-invert-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0695-max-area-of-island](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -301,6 +303,7 @@ LeetCode profile : gauri97
 | ------- |
 | [0200-number-of-islands](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1036-rotting-oranges) |
 ## Graph
 |  |
 | ------- |
