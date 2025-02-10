@@ -18,6 +18,7 @@ LeetCode profile : gauri97
 | [0146-lru-cache](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0567-permutation-in-string) |
@@ -68,6 +69,7 @@ LeetCode profile : gauri97
 | [0217-contains-duplicate](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0621-task-scheduler](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0695-max-area-of-island) |
@@ -87,6 +89,7 @@ LeetCode profile : gauri97
 | [0215-kth-largest-element-in-an-array](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0217-contains-duplicate) |
 | [0295-find-median-from-data-stream](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1014-k-closest-points-to-origin) |
 ## Linked List
@@ -150,6 +153,7 @@ LeetCode profile : gauri97
 | [0023-merge-k-sorted-lists](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
@@ -158,6 +162,7 @@ LeetCode profile : gauri97
 | [0215-kth-largest-element-in-an-array](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -285,6 +290,7 @@ LeetCode profile : gauri97
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1014-k-closest-points-to-origin) |
 ## Greedy
 |  |
@@ -293,6 +299,7 @@ LeetCode profile : gauri97
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0621-task-scheduler) |
 ## Backtracking
 |  |
@@ -336,4 +343,8 @@ LeetCode profile : gauri97
 | ------- |
 | [0207-course-schedule](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0210-course-schedule-ii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
