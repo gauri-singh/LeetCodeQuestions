@@ -9,6 +9,7 @@ LeetCode profile : gauri97
 | ------- |
 | [0001-two-sum](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0133-clone-graph) |
@@ -34,6 +35,7 @@ LeetCode profile : gauri97
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0208-implement-trie-prefix-tree) |
@@ -55,6 +57,7 @@ LeetCode profile : gauri97
 | [0039-combination-sum](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -80,6 +83,7 @@ LeetCode profile : gauri97
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0217-contains-duplicate) |
 | [0295-find-median-from-data-stream](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0295-find-median-from-data-stream) |
