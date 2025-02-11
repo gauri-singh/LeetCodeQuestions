@@ -30,6 +30,7 @@ LeetCode profile : gauri97
 | [0011-container-with-most-water](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0143-reorder-list) |
@@ -66,6 +67,7 @@ LeetCode profile : gauri97
 | [0036-valid-sudoku](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0078-subsets) |
@@ -90,6 +92,7 @@ LeetCode profile : gauri97
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0131-palindrome-partitioning) |
@@ -129,6 +132,7 @@ LeetCode profile : gauri97
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0143-reorder-list) |
 ## Math
 |  |
@@ -366,4 +370,8 @@ LeetCode profile : gauri97
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0238-product-of-array-except-self) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
