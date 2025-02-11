@@ -42,6 +42,7 @@ LeetCode profile : gauri97
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0125-valid-palindrome) |
@@ -132,6 +133,7 @@ LeetCode profile : gauri97
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0143-reorder-list) |
 ## Math
