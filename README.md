@@ -27,6 +27,7 @@ LeetCode profile : gauri97
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0141-linked-list-cycle) |
@@ -59,6 +60,7 @@ LeetCode profile : gauri97
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0040-combination-sum-ii) |
@@ -92,6 +94,7 @@ LeetCode profile : gauri97
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0217-contains-duplicate) |
