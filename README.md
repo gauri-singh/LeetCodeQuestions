@@ -136,6 +136,7 @@ LeetCode profile : gauri97
 | [0020-valid-parentheses](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0155-min-stack) |
 ## Math
 |  |
 | ------- |
@@ -156,6 +157,7 @@ LeetCode profile : gauri97
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0295-find-median-from-data-stream) |
