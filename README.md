@@ -72,6 +72,7 @@ LeetCode profile : gauri97
 | [0042-trapping-rain-water](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0078-subsets) |
@@ -103,6 +104,7 @@ LeetCode profile : gauri97
 | ------- |
 | [0022-generate-parentheses](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0131-palindrome-partitioning) |
@@ -191,6 +193,7 @@ LeetCode profile : gauri97
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0347-top-k-frequent-elements) |
