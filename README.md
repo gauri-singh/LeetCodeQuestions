@@ -72,6 +72,7 @@ LeetCode profile : gauri97
 | [0042-trapping-rain-water](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0090-subsets-ii) |
@@ -108,6 +109,7 @@ LeetCode profile : gauri97
 | ------- |
 | [0015-3sum](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0217-contains-duplicate) |
 | [0295-find-median-from-data-stream](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0295-find-median-from-data-stream) |
