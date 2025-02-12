@@ -19,12 +19,13 @@ public:
                 // the right of interval is before current query as well, so the interval doesnt overlap with q at alll
                 minheap.pop();
             }
-            if(!minheap.empty()){
-                result[q]=minheap.top().first; // push the size in result
-            }
-            else{
-                 result[q]=-1;
-            }
+            // if(!minheap.empty()){
+            //     result[q]=minheap.top().first; // push the size in result
+            // }
+            // else{
+            //      result[q]=-1;
+            // }
+             result[q]= minheap.empty() ?-1 :minheap.top().first;
         }
         vector <int> answer; // because we need to return answer in the same order as original query array
         for(auto q: queries){
