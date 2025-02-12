@@ -72,6 +72,7 @@ LeetCode profile : gauri97
 | [0042-trapping-rain-water](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0049-group-anagrams) |
+| [0057-insert-interval](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
