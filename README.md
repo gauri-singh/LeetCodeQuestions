@@ -102,6 +102,7 @@ LeetCode profile : gauri97
 | [1036-rotting-oranges](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1127-last-stone-weight) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1977-minimum-interval-to-include-each-query) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -349,6 +350,7 @@ LeetCode profile : gauri97
 | [0435-non-overlapping-intervals](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0876-hand-of-straights) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Counting
 |  |
 | ------- |
