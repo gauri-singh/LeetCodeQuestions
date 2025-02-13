@@ -24,6 +24,7 @@ LeetCode profile : gauri97
 | [0424-longest-repeating-character-replacement](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0876-hand-of-straights) |
 ## Two Pointers
 |  |
 | ------- |
@@ -95,6 +96,7 @@ LeetCode profile : gauri97
 | [0621-task-scheduler](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0739-daily-temperatures) |
+| [0876-hand-of-straights](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1036-rotting-oranges) |
@@ -123,6 +125,7 @@ LeetCode profile : gauri97
 | [0347-top-k-frequent-elements](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1014-k-closest-points-to-origin) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1977-minimum-interval-to-include-each-query) |
@@ -345,6 +348,7 @@ LeetCode profile : gauri97
 | [0055-jump-game](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0876-hand-of-straights) |
 ## Counting
 |  |
 | ------- |
