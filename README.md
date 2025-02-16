@@ -27,6 +27,7 @@ LeetCode profile : gauri97
 | [0768-partition-labels](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0778-reorganize-string) |
 | [0876-hand-of-straights](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0876-hand-of-straights) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Two Pointers
 |  |
@@ -263,6 +264,7 @@ LeetCode profile : gauri97
 | [0543-diameter-of-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -288,6 +290,7 @@ LeetCode profile : gauri97
 | [0572-subtree-of-another-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0695-max-area-of-island) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -306,6 +309,7 @@ LeetCode profile : gauri97
 | [0417-pacific-atlantic-water-flow](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0695-max-area-of-island) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -326,6 +330,7 @@ LeetCode profile : gauri97
 | [0543-diameter-of-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
