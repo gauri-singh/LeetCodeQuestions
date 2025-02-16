@@ -17,7 +17,7 @@ public:
         return {target->val};
         } 
         TreeNode* curr= root;
-        //poppulating adjacency list
+        //populating adjacency list
       queue<TreeNode*> graph;
       graph.push(root);
       while(!graph.empty()){
