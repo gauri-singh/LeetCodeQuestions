@@ -43,6 +43,7 @@ LeetCode profile : gauri97
 | [0141-linked-list-cycle](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0253-meeting-rooms-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0253-meeting-rooms-ii) |
 | [0287-find-the-duplicate-number](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0567-permutation-in-string) |
@@ -105,6 +106,7 @@ LeetCode profile : gauri97
 | [0217-contains-duplicate](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0239-sliding-window-maximum) |
+| [0253-meeting-rooms-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0253-meeting-rooms-ii) |
 | [0287-find-the-duplicate-number](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0348-design-tic-tac-toe) |
@@ -143,6 +145,7 @@ LeetCode profile : gauri97
 | [0056-merge-intervals](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0217-contains-duplicate) |
+| [0253-meeting-rooms-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0435-non-overlapping-intervals) |
@@ -242,6 +245,7 @@ LeetCode profile : gauri97
 | [0023-merge-k-sorted-lists](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0239-sliding-window-maximum) |
+| [0253-meeting-rooms-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0355-design-twitter) |
@@ -388,6 +392,7 @@ LeetCode profile : gauri97
 | [0011-container-with-most-water](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0134-gas-station) |
+| [0253-meeting-rooms-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0253-meeting-rooms-ii) |
 | [0435-non-overlapping-intervals](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0678-valid-parenthesis-string) |
@@ -458,6 +463,7 @@ LeetCode profile : gauri97
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0238-product-of-array-except-self) |
+| [0253-meeting-rooms-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0253-meeting-rooms-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
