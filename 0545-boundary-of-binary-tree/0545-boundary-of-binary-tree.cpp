@@ -47,8 +47,10 @@ vector<int> boundary;
             //check if right child could be the left boundary
             isLeftBoundary(root->right);
         }
-           //check if left child could be the left boundary
-        isLeftBoundary(root->left);
+        else{
+             //check if left child could be the left boundary
+            isLeftBoundary(root->left);
+        }
     }
       void isRightBoundary(TreeNode* root){
         if(!root || ( !root->left && !root->right)){
@@ -60,8 +62,10 @@ vector<int> boundary;
             //check if left child could be the right boundary
             isRightBoundary(root->left);
         }
-           //check if left child could be the right boundary
+        else{
+             //check if left child could be the right boundary
         isRightBoundary(root->right);
+        }
         // current node is in right boundary
         boundary.push_back(root->val);
     }
