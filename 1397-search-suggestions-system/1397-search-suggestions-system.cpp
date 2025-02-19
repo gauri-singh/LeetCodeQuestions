@@ -1,6 +1,6 @@
 class TrieNode{
     public:
-    map<char,TrieNode*> children;
+    unordered_map<char,TrieNode*> children;
     bool end=false;
 };
 class Solution {
@@ -39,6 +39,7 @@ vector<vector<string>>  res;
             //this is end of word, we can add this to suggestion
             suggestions.push_back(prefix);
         }
+        //going in sequence guarantees lexicographic
         for(char ch='a';ch<='z';ch++){
             if(curr->children.count(ch)){
                  dfs(curr->children[ch],prefix+ch,suggestions);
