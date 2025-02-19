@@ -71,6 +71,7 @@ LeetCode profile : gauri97
 | [0768-partition-labels](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0778-reorganize-string) |
 | [1397-search-suggestions-system](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1397-search-suggestions-system) |
+| [2165-plates-between-candles](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/2165-plates-between-candles) |
 ## Sliding Window
 |  |
 | ------- |
@@ -126,6 +127,7 @@ LeetCode profile : gauri97
 | [1829-maximum-units-on-a-truck](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1829-maximum-units-on-a-truck) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/2026-merge-triplets-to-form-target-triplet) |
+| [2165-plates-between-candles](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/2165-plates-between-candles) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Dynamic Programming
 |  |
@@ -210,6 +212,7 @@ LeetCode profile : gauri97
 | [0287-find-the-duplicate-number](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0287-find-the-duplicate-number) |
 | [1397-search-suggestions-system](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1397-search-suggestions-system) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1977-minimum-interval-to-include-each-query) |
+| [2165-plates-between-candles](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/2165-plates-between-candles) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -470,6 +473,7 @@ LeetCode profile : gauri97
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0253-meeting-rooms-ii) |
+| [2165-plates-between-candles](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/2165-plates-between-candles) |
 ## Monotonic Stack
 |  |
 | ------- |
