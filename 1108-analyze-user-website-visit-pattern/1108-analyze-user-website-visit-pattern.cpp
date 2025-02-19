@@ -4,6 +4,7 @@ public:
         unordered_map<string, vector<pair<int, string>>> userVisits;
         for (int i = 0; i < username.size(); ++i) {
             userVisits[username[i]].emplace_back(timestamp[i], website[i]);
+            // pushing back pair also work, but emplacing is faster
         }
         
         map<vector<string>, int> websiteCount;
