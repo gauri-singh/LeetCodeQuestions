@@ -3,7 +3,7 @@ public:
     vector<string> mostVisitedPattern(vector<string>& username, vector<int>& timestamp, vector<string>& website) {
         unordered_map<string, vector<pair<int, string>>> userVisits;
         for (int i = 0; i < username.size(); ++i) {
-            userVisits[username[i]].emplace_back(timestamp[i], website[i]);
+                 userVisits[username[i]].push_back({timestamp[i],website[i]});
         }
         
         map<vector<string>, int> websiteCount;
