@@ -17,7 +17,6 @@ public:
         if (!pathNode->content.empty() && pathNode->content != "") {
             return {path.substr(path.find_last_of('/') + 1)};
         }
-        
         for (auto const& [name, node] : pathNode->dir) {
             result.push_back(name);
         }
