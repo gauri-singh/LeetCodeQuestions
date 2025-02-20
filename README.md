@@ -131,6 +131,7 @@ LeetCode profile : gauri97
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2165-plates-between-candles](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/2165-plates-between-candles) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2474-minimum-adjacent-swaps-to-make-a-valid-array](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/2474-minimum-adjacent-swaps-to-make-a-valid-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -414,6 +415,7 @@ LeetCode profile : gauri97
 | [1829-maximum-units-on-a-truck](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1829-maximum-units-on-a-truck) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2474-minimum-adjacent-swaps-to-make-a-valid-array](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/2474-minimum-adjacent-swaps-to-make-a-valid-array) |
 ## Counting
 |  |
 | ------- |
