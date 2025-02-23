@@ -117,6 +117,7 @@ LeetCode profile : gauri97
 | [0217-contains-duplicate](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0239-sliding-window-maximum) |
+| [0252-meeting-rooms](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0253-meeting-rooms-ii) |
 | [0287-find-the-duplicate-number](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0347-top-k-frequent-elements) |
@@ -163,6 +164,7 @@ LeetCode profile : gauri97
 | [0088-merge-sorted-array](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0217-contains-duplicate) |
+| [0252-meeting-rooms](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0347-top-k-frequent-elements) |
