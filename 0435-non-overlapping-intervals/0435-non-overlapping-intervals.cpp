@@ -1,7 +1,7 @@
 class Solution {
 public:
     int eraseOverlapIntervals(vector<vector<int>>& intervals) {
-        //if two intervals are overlapping we remove the interval with smaller end point because it has less chances of overlapping with other intervals
+        //if two intervals are overlapping we keep the interval with smaller end point because it has less chances of overlapping with other intervals
         
         //algorithm
         //sort the array
