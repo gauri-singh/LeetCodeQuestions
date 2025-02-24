@@ -15,7 +15,7 @@ public:
         for(auto p: perms){
             //each p is a permutation vector
             for(int i=0;i<=p.size();i++){
-                //<= p size so we can insert in end also
+                //<= p size so we can insert in end of current vector also
                 vector<int> p_copy=p;
                 p_copy.insert(p_copy.begin()+i,nums[0]); //insert the first element at every ith index
                 res.push_back(p_copy);// push this new permutation in result;
