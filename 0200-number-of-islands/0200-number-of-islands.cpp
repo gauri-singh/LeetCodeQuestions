@@ -9,13 +9,25 @@ int directions [4][2]={{1,0},{-1,0},{0,1},{0,-1}};
         for(int r =0;r<ROWS;r++){
             for(int c =0;c<COLS;c++){
                 if(grid[r][c]=='1' && !visited.count({r,c})){
-                    bfs(r,c,grid);
+                    //dfs(r,c,grid);
+                     bfs(r,c,grid);
                     islands++;
                 }
             }
         }
         return islands;
     }
+    // void dfs( int r,int c,vector<vector<char>>& grid ){
+    //     if(r<0 || r>=ROWS || c<0 || c>=COLS || visited.count({r,c}) || grid[r][c]!='1'){
+    //         return;
+    //     }
+    //     visited.insert({r,c});
+    //     dfs(r+1,c,grid);
+    //     dfs(r-1,c,grid);
+    //     dfs(r,c+1,grid);
+    //     dfs(r,c-1,grid);
+    // }
+
 void bfs(int r, int c,vector<vector<char>>& grid){
     queue <pair<int,int>> q;
     q.push({r,c});
