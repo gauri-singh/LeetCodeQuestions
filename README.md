@@ -127,6 +127,7 @@ LeetCode profile : gauri97
 | [0416-partition-equal-subset-sum](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0494-target-sum) |
 | [0621-task-scheduler](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0735-asteroid-collision) |
@@ -159,6 +160,7 @@ LeetCode profile : gauri97
 | [0131-palindrome-partitioning](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0131-palindrome-partitioning) |
 | [0416-partition-equal-subset-sum](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0678-valid-parenthesis-string) |
 ## Sorting
 |  |
@@ -461,6 +463,7 @@ LeetCode profile : gauri97
 | [0078-subsets](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0494-target-sum) |
 ## Trie
 |  |
 | ------- |
