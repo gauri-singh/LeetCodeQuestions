@@ -16,9 +16,10 @@ public:
                 if(coins[i-1]<=j){
                     // taking the coin or not taking it
                     dp[i][j]=min(1+dp[i][j-coins[i-1]],dp[i-1][j]);
+                    // if taking this type of coin, increment the count of total coins
                 }
                 else{
-                    dp[i][j]=dp[i-1][j];
+                    dp[i][j]=dp[i-1][j]; // cannot take this type of coin, just copy previous value
                 }
             }
         }
