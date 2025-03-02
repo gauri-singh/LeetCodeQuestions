@@ -122,6 +122,7 @@ LeetCode profile : gauri97
 | [0253-meeting-rooms-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0253-meeting-rooms-ii) |
 | [0286-walls-and-gates](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0286-walls-and-gates) |
 | [0287-find-the-duplicate-number](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0348-design-tic-tac-toe) |
 | [0416-partition-equal-subset-sum](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0416-partition-equal-subset-sum) |
@@ -159,6 +160,7 @@ LeetCode profile : gauri97
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0131-palindrome-partitioning) |
+| [0322-coin-change](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0494-target-sum) |
@@ -373,6 +375,7 @@ LeetCode profile : gauri97
 | [0226-invert-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0226-invert-binary-tree) |
 | [0286-walls-and-gates](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0286-walls-and-gates) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0322-coin-change) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0417-pacific-atlantic-water-flow](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0684-redundant-connection) |
