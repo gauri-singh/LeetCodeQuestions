@@ -2,7 +2,9 @@ class Solution {
 public:
     int coinChange(vector<int>& coins, int amount) {
     int n=coins.size();
-          vector<vector<unsigned long long>> dp(n + 1, vector<unsigned long long>(amount + 1,INT_MAX-1));
+          vector<vector<int>> dp(n + 1, vector<int>(amount + 1,INT_MAX-1));
+          //dp is storing the minimum coins require to form the amount 
+        //if forming the amount is not possible, we let it stay as it is 
         //count of subset sum but for unbounded knapsack
 
          // Base: there's 1 way to form the amount 0 (choose no coins)
