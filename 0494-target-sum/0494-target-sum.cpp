@@ -1,6 +1,11 @@
 class Solution {
 public:
   vector<vector<int>> dp;
+  //this question is essentially count number of subset with given difference
+  // some numbers have + in front and some have -
+  //group together all positive numbers and sum them s1
+  //group together all negative numbers and sum them, take out minus sign common we have -s2
+  //therefore s1+(-s2)=target , i.e, s1-s2=diff
     int findTargetSumWays(vector<int>& arr, int target) {
         int n=arr.size();
         int diff=target;
