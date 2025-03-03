@@ -76,6 +76,7 @@ LeetCode profile : gauri97
 | [0768-partition-labels](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0778-reorganize-string) |
 | [0974-reorder-data-in-log-files](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0974-reorder-data-in-log-files) |
+| [1250-longest-common-subsequence](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1250-longest-common-subsequence) |
 | [1397-search-suggestions-system](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1397-search-suggestions-system) |
 | [2165-plates-between-candles](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/2165-plates-between-candles) |
 ## Sliding Window
@@ -166,6 +167,7 @@ LeetCode profile : gauri97
 | [0494-target-sum](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0678-valid-parenthesis-string) |
+| [1250-longest-common-subsequence](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1250-longest-common-subsequence) |
 ## Sorting
 |  |
 | ------- |
