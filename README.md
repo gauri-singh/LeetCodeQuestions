@@ -80,6 +80,7 @@ LeetCode profile : gauri97
 | [0974-reorder-data-in-log-files](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0974-reorder-data-in-log-files) |
 | [1250-longest-common-subsequence](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1250-longest-common-subsequence) |
 | [1397-search-suggestions-system](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1397-search-suggestions-system) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2165-plates-between-candles](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/2165-plates-between-candles) |
 ## Sliding Window
 |  |
@@ -175,6 +176,7 @@ LeetCode profile : gauri97
 | [0678-valid-parenthesis-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0678-valid-parenthesis-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1250-longest-common-subsequence](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1250-longest-common-subsequence) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Sorting
 |  |
 | ------- |
