@@ -33,6 +33,7 @@ LeetCode profile : gauri97
 | [0876-hand-of-straights](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1108-analyze-user-website-visit-pattern) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Two Pointers
 |  |
@@ -86,6 +87,7 @@ LeetCode profile : gauri97
 | [1250-longest-common-subsequence](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1250-longest-common-subsequence) |
 | [1397-search-suggestions-system](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1397-search-suggestions-system) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2165-plates-between-candles](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/2165-plates-between-candles) |
 ## Sliding Window
 |  |
@@ -156,6 +158,7 @@ LeetCode profile : gauri97
 | [1127-last-stone-weight](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1127-last-stone-weight) |
 | [1397-search-suggestions-system](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1397-search-suggestions-system) |
 | [1829-maximum-units-on-a-truck](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1829-maximum-units-on-a-truck) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2165-plates-between-candles](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/2165-plates-between-candles) |
