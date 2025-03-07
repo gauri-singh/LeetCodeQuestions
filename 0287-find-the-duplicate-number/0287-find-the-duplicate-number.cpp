@@ -27,7 +27,7 @@ public:
         for(int i=0;i<nums.size();i++){
             int pos=abs(nums[i]);
             if(nums[pos]<0){
-                return abs(nums[i]);
+                return abs(pos);
             }
             nums[pos]=-nums[pos];
         }
