@@ -1,22 +1,36 @@
 class Solution {
 public:
-
-vector<int> dp;
-//tabulation
-    int rob(vector<int>& nums) {
+//space optimized
+int rob(vector<int>& nums) {
         int n=nums.size();
-        dp=vector<int>(n+1,0);
-         if (n == 1) return nums[0]; // Edge case: only one house
-        dp[0]=nums[0];
-        dp[1]=max(nums[0],nums[1]);
+        if (n == 1) return nums[0];
+        int prev2=nums[0];
+        int prev1=max(nums[0],nums[1]);
         for(int i=2;i<n;i++){
-            // only till n-1 because nums[n+1] doesn't exist
-            dp[i]=max(nums[i]+dp[i-2],dp[i-1]);
+            int curr=max(nums[i]+prev2,prev1);
+            prev2=prev1;
+            prev1=curr;
             // taking or not taking
         }
-        //we will only fill till dp[n-1]  because nums[n] doesnt exist
-        return dp[n-1];
-    }
+        //we will only run till dp[n-1]  because nums[n] doesnt exist
+        return prev1;
+}
+// vector<int> dp;
+// //tabulation
+//     int rob(vector<int>& nums) {
+//         int n=nums.size();
+//         dp=vector<int>(n+1,0);
+//          if (n == 1) return nums[0]; // Edge case: only one house
+//         dp[0]=nums[0];
+//         dp[1]=max(nums[0],nums[1]);
+//         for(int i=2;i<n;i++){
+//             // only till n-1 because nums[n+1] doesn't exist
+//             dp[i]=max(nums[i]+dp[i-2],dp[i-1]);
+//             // taking or not taking
+//         }
+//         //we will only fill till dp[n-1]  because nums[n] doesnt exist
+//         return dp[n-1];
+//     }
 // //memoization
 //     int rob(vector<int>& nums) {
 //         dp=vector<int>(nums.size()+1,-1);
