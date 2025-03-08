@@ -172,6 +172,7 @@ LeetCode profile : gauri97
 | [0042-trapping-rain-water](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0131-palindrome-partitioning) |
@@ -257,6 +258,7 @@ LeetCode profile : gauri97
 | ------- |
 | [0002-add-two-numbers](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0273-integer-to-english-words) |
@@ -564,4 +566,8 @@ LeetCode profile : gauri97
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
