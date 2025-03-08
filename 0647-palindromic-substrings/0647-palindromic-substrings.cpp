@@ -1,7 +1,7 @@
 class Solution {
 public:
-int maxLen=0;
 int count=0;
+//built upon longest palindromic substring question
       int countSubstrings(string s) {
        for(int i=0;i<s.size();i++){
         //odd length palindromes
@@ -14,9 +14,10 @@ int count=0;
     }
     void findPalindromes(int l, int r,string s){
           while (l>=0 && r<s.size() && s[l]==s[r]){
-            if(r-l+1 > maxLen){
-                maxLen=r-l+1;
-            }
+            // dont need this check cause we dont need longest palindrome
+            // if(r-l+1 > maxLen){
+            //     maxLen=r-l+1;
+            // }
             count++;
             l--;
             r++;
