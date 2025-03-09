@@ -3,6 +3,7 @@ public:
     int maxProduct(vector<int>& nums) {
         int res= nums[0];
         int currMax=1,currMin=1;
+        //curr min will keep minimum products (including  the-ve numbers) and max would have all the max product
         for(int num: nums){
             //this if case is redundant
             if(num==0){
