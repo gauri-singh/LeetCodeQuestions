@@ -183,6 +183,7 @@ LeetCode profile : gauri97
 | [0042-trapping-rain-water](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -277,6 +278,7 @@ LeetCode profile : gauri97
 | ------- |
 | [0002-add-two-numbers](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0227-basic-calculator-ii) |
@@ -592,4 +594,8 @@ LeetCode profile : gauri97
 | ------- |
 | [0070-climbing-stairs](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0139-word-break) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
