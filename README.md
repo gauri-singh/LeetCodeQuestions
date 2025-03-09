@@ -128,6 +128,7 @@ LeetCode profile : gauri97
 | [0130-surrounded-regions](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0200-number-of-islands) |
@@ -183,6 +184,7 @@ LeetCode profile : gauri97
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0322-coin-change) |
