@@ -1,3 +1,24 @@
+// class Solution {
+// public:
+//  vector<vector<int>> dp;
+//  int total_sum;
+//     int findTargetSumWays(vector<int>& nums, int target) {
+//         total_sum = accumulate(nums.begin(),nums.end(),0);
+//         int n=nums.size();
+//         dp=vector<vector<int>>(n+1,vector<int>(2*total_sum+1,-1)); // since the sum can go from -sum to plus sum 
+//         return solve(0,0,target,nums);
+//     }
+//     int solve(int i, int total,int target, vector<int>& nums){
+//          if (i == nums.size()) {
+//             return total == target; // the case where total==target but all elements arent processed isnt valid
+//         }
+//         if(dp[i][total+total_sum]!=-1) return dp[i][total+total_sum];
+//         return dp[i][total+total_sum]= solve(i+1,total+nums[i],target,nums) +
+//                 solve(i+1,total-nums[i],target,nums);
+//     }
+// };
+
+//Aditya verma style:
 class Solution {
 public:
   vector<vector<int>> dp;
