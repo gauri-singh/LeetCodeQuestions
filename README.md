@@ -182,6 +182,7 @@ LeetCode profile : gauri97
 | [1127-last-stone-weight](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1127-last-stone-weight) |
 | [1397-search-suggestions-system](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1397-search-suggestions-system) |
 | [1829-maximum-units-on-a-truck](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1829-maximum-units-on-a-truck) |
+| [1909-buildings-with-an-ocean-view](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1909-buildings-with-an-ocean-view) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -290,6 +291,7 @@ LeetCode profile : gauri97
 | [0739-daily-temperatures](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0883-car-fleet) |
 | [1002-maximum-width-ramp](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1002-maximum-width-ramp) |
+| [1909-buildings-with-an-ocean-view](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1909-buildings-with-an-ocean-view) |
 ## Math
 |  |
 | ------- |
@@ -596,6 +598,7 @@ LeetCode profile : gauri97
 | [0739-daily-temperatures](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0883-car-fleet) |
 | [1002-maximum-width-ramp](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1002-maximum-width-ramp) |
+| [1909-buildings-with-an-ocean-view](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1909-buildings-with-an-ocean-view) |
 ## Line Sweep
 |  |
 | ------- |
