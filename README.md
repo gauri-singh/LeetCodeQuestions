@@ -400,6 +400,7 @@ LeetCode profile : gauri97
 | [0572-subtree-of-another-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0975-range-sum-of-bst](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0975-range-sum-of-bst) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -428,6 +429,7 @@ LeetCode profile : gauri97
 | [0684-redundant-connection](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0695-max-area-of-island) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0975-range-sum-of-bst](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0975-range-sum-of-bst) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -473,6 +475,7 @@ LeetCode profile : gauri97
 | [0572-subtree-of-another-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0975-range-sum-of-bst](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0975-range-sum-of-bst) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
@@ -490,6 +493,7 @@ LeetCode profile : gauri97
 | [0230-kth-smallest-element-in-a-bst](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0975-range-sum-of-bst](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0975-range-sum-of-bst) |
 ## Data Stream
 |  |
 | ------- |
