@@ -55,6 +55,7 @@ LeetCode profile : gauri97
 | [0287-find-the-duplicate-number](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0392-is-subsequence) |
+| [0408-valid-word-abbreviation](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0408-valid-word-abbreviation) |
 | [0567-permutation-in-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0768-partition-labels) |
@@ -82,6 +83,7 @@ LeetCode profile : gauri97
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0392-is-subsequence](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0392-is-subsequence) |
+| [0408-valid-word-abbreviation](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0408-valid-word-abbreviation) |
 | [0424-longest-repeating-character-replacement](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0567-permutation-in-string) |
