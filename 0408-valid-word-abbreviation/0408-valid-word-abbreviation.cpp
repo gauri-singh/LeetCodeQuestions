@@ -15,6 +15,7 @@ public:
         //is a  digit 
         string num="";
         while(isdigit(abbr[i])){
+            //keep adding to get the total number
             num+=abbr[i]; i++;
             if(num=="0") return false; // has leading zeros
         }
