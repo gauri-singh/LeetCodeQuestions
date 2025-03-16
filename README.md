@@ -157,6 +157,7 @@ LeetCode profile : gauri97
 | [0300-longest-increasing-subsequence](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0322-coin-change) |
+| [0346-moving-average-from-data-stream](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0346-moving-average-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0348-design-tic-tac-toe) |
 | [0416-partition-equal-subset-sum](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0416-partition-equal-subset-sum) |
@@ -330,6 +331,7 @@ LeetCode profile : gauri97
 | [0211-design-add-and-search-words-data-structure](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0346-moving-average-from-data-stream](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0346-moving-average-from-data-stream) |
 | [0348-design-tic-tac-toe](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0348-design-tic-tac-toe) |
 | [0355-design-twitter](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0355-design-twitter) |
 | [0588-design-in-memory-file-system](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0588-design-in-memory-file-system) |
@@ -373,6 +375,7 @@ LeetCode profile : gauri97
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0239-sliding-window-maximum) |
+| [0346-moving-average-from-data-stream](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0346-moving-average-from-data-stream) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -491,6 +494,7 @@ LeetCode profile : gauri97
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0295-find-median-from-data-stream) |
+| [0346-moving-average-from-data-stream](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0346-moving-average-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Geometry
 |  |
