@@ -4,6 +4,7 @@ public:
         stringstream ss(path);
         string token;
         vector<string> dir;
+        // instead of vector we can do it with a stack also same logic literally just datastrcture change
         while(getline(ss,token,'/')){
             if(token==".."){
                 if(!dir.empty())
@@ -11,14 +12,13 @@ public:
                 continue;
             }
             else if(token=="."){
-                continue;
+                continue; // current directory skip
             }
             if(token!="")
-                dir.push_back(token);
+                dir.push_back(token);// empty directories skip
         }
         string res;
         for(string curr :dir){
-            if(curr.length()>0)
                 res+="/"+curr;
         }
         return res.length()>0?res:"/";
