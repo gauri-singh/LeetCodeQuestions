@@ -312,6 +312,7 @@ LeetCode profile : gauri97
 | [0150-evaluate-reverse-polish-notation](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0273-integer-to-english-words) |
+| [0670-maximum-swap](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0670-maximum-swap) |
 | [1014-k-closest-points-to-origin](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1014-k-closest-points-to-origin) |
 ## Binary Search
 |  |
@@ -537,6 +538,7 @@ LeetCode profile : gauri97
 | [0253-meeting-rooms-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0253-meeting-rooms-ii) |
 | [0435-non-overlapping-intervals](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0621-task-scheduler) |
+| [0670-maximum-swap](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0768-partition-labels) |
