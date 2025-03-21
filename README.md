@@ -104,6 +104,7 @@ LeetCode profile : gauri97
 | [0680-valid-palindrome-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0778-reorganize-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0974-reorder-data-in-log-files](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0974-reorder-data-in-log-files) |
 | [1170-shortest-common-supersequence](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1250-longest-common-subsequence) |
@@ -313,6 +314,7 @@ LeetCode profile : gauri97
 | [0735-asteroid-collision](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0883-car-fleet) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1002-maximum-width-ramp) |
 | [1909-buildings-with-an-ocean-view](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1909-buildings-with-an-ocean-view) |
 ## Math
@@ -568,6 +570,7 @@ LeetCode profile : gauri97
 | [0768-partition-labels](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0778-reorganize-string) |
 | [0876-hand-of-straights](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0876-hand-of-straights) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1829-maximum-units-on-a-truck](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1829-maximum-units-on-a-truck) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
