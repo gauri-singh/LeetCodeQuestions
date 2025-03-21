@@ -188,6 +188,7 @@ LeetCode profile : gauri97
 | [0854-making-a-large-island](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0854-making-a-large-island) |
 | [0876-hand-of-straights](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0883-car-fleet) |
+| [0912-random-pick-with-weight](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0912-random-pick-with-weight) |
 | [0974-reorder-data-in-log-files](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0974-reorder-data-in-log-files) |
 | [1002-maximum-width-ramp](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1002-maximum-width-ramp) |
 | [1014-k-closest-points-to-origin](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1014-k-closest-points-to-origin) |
@@ -324,6 +325,7 @@ LeetCode profile : gauri97
 | [0227-basic-calculator-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0273-integer-to-english-words) |
 | [0670-maximum-swap](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0670-maximum-swap) |
+| [0912-random-pick-with-weight](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0912-random-pick-with-weight) |
 | [1014-k-closest-points-to-origin](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1014-k-closest-points-to-origin) |
 ## Binary Search
 |  |
@@ -334,6 +336,7 @@ LeetCode profile : gauri97
 | [0300-longest-increasing-subsequence](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0912-random-pick-with-weight](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0912-random-pick-with-weight) |
 | [1046-max-consecutive-ones-iii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1046-max-consecutive-ones-iii) |
 | [1397-search-suggestions-system](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1397-search-suggestions-system) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1977-minimum-interval-to-include-each-query) |
@@ -636,6 +639,7 @@ LeetCode profile : gauri97
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0253-meeting-rooms-ii) |
+| [0912-random-pick-with-weight](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0912-random-pick-with-weight) |
 | [1046-max-consecutive-ones-iii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1046-max-consecutive-ones-iii) |
 | [2165-plates-between-candles](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/2165-plates-between-candles) |
 ## Monotonic Stack
@@ -672,4 +676,8 @@ LeetCode profile : gauri97
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0062-unique-paths) |
+## Randomized
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0912-random-pick-with-weight) |
 <!---LeetCode Topics End-->
