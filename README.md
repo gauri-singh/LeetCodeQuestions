@@ -22,6 +22,7 @@ LeetCode profile : gauri97
 | [0208-implement-trie-prefix-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0219-contains-duplicate-ii) |
+| [0249-group-shifted-strings](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0249-group-shifted-strings) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0347-top-k-frequent-elements](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0347-top-k-frequent-elements) |
@@ -89,6 +90,7 @@ LeetCode profile : gauri97
 | [0208-implement-trie-prefix-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0227-basic-calculator-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0227-basic-calculator-ii) |
+| [0249-group-shifted-strings](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0249-group-shifted-strings) |
 | [0273-integer-to-english-words](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0273-integer-to-english-words) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
@@ -163,6 +165,7 @@ LeetCode profile : gauri97
 | [0219-contains-duplicate-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0239-sliding-window-maximum) |
+| [0249-group-shifted-strings](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0249-group-shifted-strings) |
 | [0252-meeting-rooms](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0253-meeting-rooms-ii) |
 | [0286-walls-and-gates](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0286-walls-and-gates) |
