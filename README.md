@@ -45,6 +45,7 @@ LeetCode profile : gauri97
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -220,6 +221,7 @@ LeetCode profile : gauri97
 | [2165-plates-between-candles](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/2165-plates-between-candles) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2474-minimum-adjacent-swaps-to-make-a-valid-array](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/2474-minimum-adjacent-swaps-to-make-a-valid-array) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -615,6 +617,7 @@ LeetCode profile : gauri97
 | [0347-top-k-frequent-elements](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0778-reorganize-string) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -728,4 +731,8 @@ LeetCode profile : gauri97
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0173-binary-search-tree-iterator) |
+## Enumeration
+|  |
+| ------- |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 <!---LeetCode Topics End-->
