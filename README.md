@@ -300,6 +300,7 @@ LeetCode profile : gauri97
 | [0146-lru-cache](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0355-design-twitter) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -328,6 +329,7 @@ LeetCode profile : gauri97
 | [0678-valid-parenthesis-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0739-daily-temperatures) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0883-car-fleet](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0883-car-fleet) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1002-maximum-width-ramp) |
@@ -387,6 +389,7 @@ LeetCode profile : gauri97
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0146-lru-cache) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -450,6 +453,7 @@ LeetCode profile : gauri97
 | [0543-diameter-of-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0545-boundary-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0572-subtree-of-another-tree) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0975-range-sum-of-bst) |
@@ -486,6 +490,7 @@ LeetCode profile : gauri97
 | [0572-subtree-of-another-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0695-max-area-of-island) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0854-making-a-large-island](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0854-making-a-large-island) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0975-range-sum-of-bst) |
@@ -542,6 +547,7 @@ LeetCode profile : gauri97
 | [0543-diameter-of-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0545-boundary-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0572-subtree-of-another-tree) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0975-range-sum-of-bst) |
@@ -564,6 +570,7 @@ LeetCode profile : gauri97
 | [0173-binary-search-tree-iterator](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0975-range-sum-of-bst) |
 ## Data Stream
