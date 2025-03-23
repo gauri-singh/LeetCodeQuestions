@@ -186,6 +186,7 @@ LeetCode profile : gauri97
 | [0518-coin-change-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0518-coin-change-ii) |
 | [0575-distribute-candies](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0575-distribute-candies) |
 | [0621-task-scheduler](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0621-task-scheduler) |
+| [0636-exclusive-time-of-functions](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0636-exclusive-time-of-functions) |
 | [0695-max-area-of-island](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0695-max-area-of-island) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0735-asteroid-collision](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0735-asteroid-collision) |
@@ -317,6 +318,7 @@ LeetCode profile : gauri97
 | [0155-min-stack](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0173-binary-search-tree-iterator) |
 | [0227-basic-calculator-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0227-basic-calculator-ii) |
+| [0636-exclusive-time-of-functions](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0739-daily-temperatures) |
