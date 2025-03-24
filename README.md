@@ -74,6 +74,7 @@ LeetCode profile : gauri97
 | [1028-interval-list-intersections](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1028-interval-list-intersections) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
+| [1894-merge-strings-alternately](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
@@ -117,6 +118,7 @@ LeetCode profile : gauri97
 | [1250-longest-common-subsequence](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1250-longest-common-subsequence) |
 | [1397-search-suggestions-system](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1397-search-suggestions-system) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1894-merge-strings-alternately](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1894-merge-strings-alternately) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2165-plates-between-candles](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/2165-plates-between-candles) |
 ## Sliding Window
