@@ -26,5 +26,7 @@ public:
         }
         return result;
     }
-    double myPow(double x, int n) { return binaryExp(x, (long long)n); }
+    double myPow(double x, int n) { 
+        return binaryExp(x, (long long)n); // long long for the negative n to make it positive
+    }
 };
