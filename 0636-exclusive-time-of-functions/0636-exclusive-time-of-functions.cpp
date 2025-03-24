@@ -28,6 +28,7 @@ int prevTime=0;
             prevTime=timeStamp;
         }else{
             //on end, add the time the function ran+1
+            //cam be soloTime[id] as well, cause its single threaded
             soloTime[st.top()]+=timeStamp-prevTime+1; // because inclusive
             st.pop();
             prevTime=timeStamp+1;
