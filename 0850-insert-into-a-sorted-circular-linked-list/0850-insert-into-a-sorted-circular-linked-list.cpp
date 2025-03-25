@@ -30,6 +30,7 @@ public:
         Node* prev=head;
         Node* curr= prev->next;
         while(true){
+             // Case 1: Normal insert between two nodes
              if (prev->val <= insertVal && insertVal <= curr->val) {
                 break;
             }
