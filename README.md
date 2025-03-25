@@ -102,6 +102,7 @@ LeetCode profile : gauri97
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0392-is-subsequence](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0392-is-subsequence) |
 | [0408-valid-word-abbreviation](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0408-valid-word-abbreviation) |
+| [0415-add-strings](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0567-permutation-in-string) |
@@ -349,6 +350,7 @@ LeetCode profile : gauri97
 | [0150-evaluate-reverse-polish-notation](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0273-integer-to-english-words) |
+| [0415-add-strings](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0523-continuous-subarray-sum) |
 | [0670-maximum-swap](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0670-maximum-swap) |
 | [0912-random-pick-with-weight](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0912-random-pick-with-weight) |
@@ -711,6 +713,7 @@ LeetCode profile : gauri97
 | ------- |
 | [0289-game-of-life](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0289-game-of-life) |
 | [0348-design-tic-tac-toe](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0348-design-tic-tac-toe) |
+| [0415-add-strings](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0735-asteroid-collision) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Rolling Hash
