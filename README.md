@@ -105,6 +105,7 @@ LeetCode profile : gauri97
 | [0415-add-strings](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0516-longest-palindromic-subsequence) |
+| [0536-construct-binary-tree-from-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0536-construct-binary-tree-from-string) |
 | [0567-permutation-in-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0583-delete-operation-for-two-strings) |
 | [0588-design-in-memory-file-system](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0588-design-in-memory-file-system) |
@@ -332,6 +333,7 @@ LeetCode profile : gauri97
 | [0155-min-stack](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0173-binary-search-tree-iterator) |
 | [0227-basic-calculator-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0227-basic-calculator-ii) |
+| [0536-construct-binary-tree-from-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0536-construct-binary-tree-from-string) |
 | [0636-exclusive-time-of-functions](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0735-asteroid-collision) |
@@ -461,6 +463,7 @@ LeetCode profile : gauri97
 | [0270-closest-binary-search-tree-value](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0270-closest-binary-search-tree-value) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0536-construct-binary-tree-from-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0536-construct-binary-tree-from-string) |
 | [0543-diameter-of-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0545-boundary-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0572-subtree-of-another-tree) |
@@ -498,6 +501,7 @@ LeetCode profile : gauri97
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0339-nested-list-weight-sum](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0339-nested-list-weight-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0536-construct-binary-tree-from-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0536-construct-binary-tree-from-string) |
 | [0543-diameter-of-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0545-boundary-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0572-subtree-of-another-tree) |
@@ -560,6 +564,7 @@ LeetCode profile : gauri97
 | [0270-closest-binary-search-tree-value](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0270-closest-binary-search-tree-value) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0536-construct-binary-tree-from-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0536-construct-binary-tree-from-string) |
 | [0543-diameter-of-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0545-boundary-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0572-subtree-of-another-tree) |
