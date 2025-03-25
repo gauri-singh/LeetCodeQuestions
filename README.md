@@ -62,6 +62,7 @@ LeetCode profile : gauri97
 | [0143-reorder-list](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0253-meeting-rooms-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0253-meeting-rooms-ii) |
+| [0283-move-zeroes](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0392-is-subsequence) |
@@ -179,6 +180,7 @@ LeetCode profile : gauri97
 | [0249-group-shifted-strings](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0249-group-shifted-strings) |
 | [0252-meeting-rooms](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0253-meeting-rooms-ii) |
+| [0283-move-zeroes](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0283-move-zeroes) |
 | [0286-walls-and-gates](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0286-walls-and-gates) |
 | [0287-find-the-duplicate-number](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0289-game-of-life) |
