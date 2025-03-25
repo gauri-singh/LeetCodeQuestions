@@ -84,6 +84,7 @@ LeetCode profile : gauri97
 | [0020-valid-parentheses](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0049-group-anagrams) |
+| [0065-valid-number](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0065-valid-number) |
 | [0071-simplify-path](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0076-minimum-window-substring) |
