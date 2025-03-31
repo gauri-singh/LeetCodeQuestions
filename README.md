@@ -206,6 +206,7 @@ LeetCode profile : gauri97
 | [0636-exclusive-time-of-functions](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0636-exclusive-time-of-functions) |
 | [0695-max-area-of-island](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0695-max-area-of-island) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0724-find-pivot-index](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0747-min-cost-climbing-stairs) |
@@ -718,6 +719,7 @@ LeetCode profile : gauri97
 | [0253-meeting-rooms-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0253-meeting-rooms-ii) |
 | [0523-continuous-subarray-sum](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0724-find-pivot-index) |
 | [0912-random-pick-with-weight](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0912-random-pick-with-weight) |
 | [1046-max-consecutive-ones-iii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1046-max-consecutive-ones-iii) |
 | [2165-plates-between-candles](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/2165-plates-between-candles) |
