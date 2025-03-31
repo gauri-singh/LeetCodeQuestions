@@ -199,6 +199,7 @@ LeetCode profile : gauri97
 | [0417-pacific-atlantic-water-flow](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0560-subarray-sum-equals-k) |
@@ -693,6 +694,7 @@ LeetCode profile : gauri97
 | [0348-design-tic-tac-toe](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0348-design-tic-tac-toe) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0498-diagonal-traverse](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0498-diagonal-traverse) |
 | [0695-max-area-of-island](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0695-max-area-of-island) |
 | [0854-making-a-large-island](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1036-rotting-oranges) |
@@ -745,6 +747,7 @@ LeetCode profile : gauri97
 | [0289-game-of-life](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0289-game-of-life) |
 | [0348-design-tic-tac-toe](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0348-design-tic-tac-toe) |
 | [0415-add-strings](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0415-add-strings) |
+| [0498-diagonal-traverse](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0735-asteroid-collision) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Rolling Hash
