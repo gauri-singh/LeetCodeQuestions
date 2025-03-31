@@ -138,6 +138,7 @@ LeetCode profile : gauri97
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1046-max-consecutive-ones-iii) |
 ## Array
@@ -204,6 +205,7 @@ LeetCode profile : gauri97
 | [0575-distribute-candies](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0575-distribute-candies) |
 | [0621-task-scheduler](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0621-task-scheduler) |
 | [0636-exclusive-time-of-functions](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0636-exclusive-time-of-functions) |
+| [0643-maximum-average-subarray-i](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0695-max-area-of-island) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0724-find-pivot-index) |
