@@ -22,6 +22,7 @@ LeetCode profile : gauri97
 | [0208-implement-trie-prefix-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0219-contains-duplicate-ii) |
+| [0246-strobogrammatic-number](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0246-strobogrammatic-number) |
 | [0249-group-shifted-strings](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0249-group-shifted-strings) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
@@ -61,6 +62,7 @@ LeetCode profile : gauri97
 | [0141-linked-list-cycle](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0246-strobogrammatic-number](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0246-strobogrammatic-number) |
 | [0253-meeting-rooms-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0287-find-the-duplicate-number) |
@@ -98,6 +100,7 @@ LeetCode profile : gauri97
 | [0208-implement-trie-prefix-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0227-basic-calculator-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0227-basic-calculator-ii) |
+| [0246-strobogrammatic-number](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0246-strobogrammatic-number) |
 | [0249-group-shifted-strings](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0249-group-shifted-strings) |
 | [0273-integer-to-english-words](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0273-integer-to-english-words) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0297-serialize-and-deserialize-binary-tree) |
