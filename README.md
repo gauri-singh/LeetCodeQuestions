@@ -669,6 +669,7 @@ LeetCode profile : gauri97
 | [0090-subsets-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0494-target-sum) |
+| [0865-robot-room-cleaner](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0865-robot-room-cleaner) |
 ## Trie
 |  |
 | ------- |
@@ -779,4 +780,8 @@ LeetCode profile : gauri97
 |  |
 | ------- |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+## Interactive
+|  |
+| ------- |
+| [0865-robot-room-cleaner](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0865-robot-room-cleaner) |
 <!---LeetCode Topics End-->
