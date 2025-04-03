@@ -4,7 +4,7 @@ public:
         //our binary search search space is from maxElement weight to sum of all weight
         int maxCap=accumulate(weights.begin(),weights.end(),0);
         int minCap=*max_element(weights.begin(),weights.end());
-        int l=minCap, r=maxCap,midCap,ans=0;
+        int l=minCap, r=maxCap,midCap,ans=r+1;
         while(l<=r){
             midCap=l+(r-l)/2;
             int midDays=getNumberOfdays(weights,midCap);
