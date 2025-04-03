@@ -226,6 +226,7 @@ LeetCode profile : gauri97
 | [1028-interval-list-intersections](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1028-interval-list-intersections) |
 | [1036-rotting-oranges](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1127-last-stone-weight](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -388,6 +389,7 @@ LeetCode profile : gauri97
 | [0718-maximum-length-of-repeated-subarray](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0912-random-pick-with-weight](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0912-random-pick-with-weight) |
 | [1046-max-consecutive-ones-iii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1397-search-suggestions-system](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1397-search-suggestions-system) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2165-plates-between-candles](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/2165-plates-between-candles) |
