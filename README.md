@@ -161,6 +161,7 @@ LeetCode profile : gauri97
 | [0055-jump-game](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0088-merge-sorted-array) |
@@ -364,6 +365,7 @@ LeetCode profile : gauri97
 | [0002-add-two-numbers](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0227-basic-calculator-ii) |
