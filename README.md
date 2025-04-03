@@ -239,6 +239,7 @@ LeetCode profile : gauri97
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/2026-merge-triplets-to-form-target-triplet) |
+| [2045-cutting-ribbons](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/2045-cutting-ribbons) |
 | [2165-plates-between-candles](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/2165-plates-between-candles) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2474-minimum-adjacent-swaps-to-make-a-valid-array](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/2474-minimum-adjacent-swaps-to-make-a-valid-array) |
@@ -396,6 +397,7 @@ LeetCode profile : gauri97
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1397-search-suggestions-system](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1397-search-suggestions-system) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1977-minimum-interval-to-include-each-query) |
+| [2045-cutting-ribbons](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/2045-cutting-ribbons) |
 | [2165-plates-between-candles](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/2165-plates-between-candles) |
 ## Bit Manipulation
 |  |
