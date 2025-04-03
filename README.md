@@ -216,6 +216,7 @@ LeetCode profile : gauri97
 | [0735-asteroid-collision](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0747-min-cost-climbing-stairs) |
+| [0792-binary-search](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0792-binary-search) |
 | [0854-making-a-large-island](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0854-making-a-large-island) |
 | [0876-hand-of-straights](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0883-car-fleet) |
@@ -387,6 +388,7 @@ LeetCode profile : gauri97
 | [0300-longest-increasing-subsequence](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0792-binary-search](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0792-binary-search) |
 | [0912-random-pick-with-weight](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0912-random-pick-with-weight) |
 | [1046-max-consecutive-ones-iii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
