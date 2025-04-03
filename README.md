@@ -220,6 +220,7 @@ LeetCode profile : gauri97
 | [0854-making-a-large-island](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0854-making-a-large-island) |
 | [0876-hand-of-straights](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0883-car-fleet) |
+| [0907-koko-eating-bananas](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0912-random-pick-with-weight) |
 | [0974-reorder-data-in-log-files](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0974-reorder-data-in-log-files) |
 | [1002-maximum-width-ramp](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1002-maximum-width-ramp) |
@@ -389,6 +390,7 @@ LeetCode profile : gauri97
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0792-binary-search](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0912-random-pick-with-weight) |
 | [1046-max-consecutive-ones-iii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
