@@ -122,6 +122,7 @@ LeetCode profile : gauri97
 | [0851-goat-latin](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0851-goat-latin) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0974-reorder-data-in-log-files](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0974-reorder-data-in-log-files) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1170-shortest-common-supersequence](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1250-longest-common-subsequence) |
 | [1397-search-suggestions-system](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1397-search-suggestions-system) |
@@ -355,6 +356,7 @@ LeetCode profile : gauri97
 | [0883-car-fleet](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0883-car-fleet) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1002-maximum-width-ramp) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1909-buildings-with-an-ocean-view](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1909-buildings-with-an-ocean-view) |
 ## Math
 |  |
