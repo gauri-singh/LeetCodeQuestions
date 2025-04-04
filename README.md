@@ -215,6 +215,7 @@ LeetCode profile : gauri97
 | [0621-task-scheduler](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0621-task-scheduler) |
 | [0636-exclusive-time-of-functions](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0695-max-area-of-island) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0724-find-pivot-index) |
@@ -361,6 +362,7 @@ LeetCode profile : gauri97
 | [0536-construct-binary-tree-from-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0536-construct-binary-tree-from-string) |
 | [0636-exclusive-time-of-functions](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0739-daily-temperatures) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
@@ -776,6 +778,7 @@ LeetCode profile : gauri97
 | [0348-design-tic-tac-toe](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0348-design-tic-tac-toe) |
 | [0415-add-strings](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0498-diagonal-traverse) |
+| [0682-baseball-game](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0735-asteroid-collision) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Rolling Hash
