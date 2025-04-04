@@ -204,6 +204,7 @@ LeetCode profile : gauri97
 | [0498-diagonal-traverse](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0523-continuous-subarray-sum) |
+| [0529-minesweeper](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0529-minesweeper) |
 | [0560-subarray-sum-equals-k](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0575-distribute-candies) |
 | [0621-task-scheduler](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0621-task-scheduler) |
@@ -528,6 +529,7 @@ LeetCode profile : gauri97
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0339-nested-list-weight-sum](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0339-nested-list-weight-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0529-minesweeper](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0529-minesweeper) |
 | [0536-construct-binary-tree-from-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0536-construct-binary-tree-from-string) |
 | [0543-diameter-of-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0545-boundary-of-binary-tree) |
@@ -564,6 +566,7 @@ LeetCode profile : gauri97
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0339-nested-list-weight-sum](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0339-nested-list-weight-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0529-minesweeper](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0529-minesweeper) |
 | [0684-redundant-connection](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0733-flood-fill) |
@@ -711,6 +714,7 @@ LeetCode profile : gauri97
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0498-diagonal-traverse) |
+| [0529-minesweeper](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0529-minesweeper) |
 | [0695-max-area-of-island](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0854-making-a-large-island) |
