@@ -103,6 +103,7 @@ LeetCode profile : gauri97
 | [0227-basic-calculator-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0227-basic-calculator-ii) |
 | [0246-strobogrammatic-number](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0246-strobogrammatic-number) |
 | [0249-group-shifted-strings](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0249-group-shifted-strings) |
+| [0271-encode-and-decode-strings](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0271-encode-and-decode-strings) |
 | [0273-integer-to-english-words](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0273-integer-to-english-words) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
@@ -187,6 +188,7 @@ LeetCode profile : gauri97
 | [0249-group-shifted-strings](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0249-group-shifted-strings) |
 | [0252-meeting-rooms](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0253-meeting-rooms-ii) |
+| [0271-encode-and-decode-strings](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0271-encode-and-decode-strings) |
 | [0283-move-zeroes](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0283-move-zeroes) |
 | [0286-walls-and-gates](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0286-walls-and-gates) |
 | [0287-find-the-duplicate-number](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0287-find-the-duplicate-number) |
@@ -415,6 +417,7 @@ LeetCode profile : gauri97
 | [0173-binary-search-tree-iterator](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0271-encode-and-decode-strings](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0271-encode-and-decode-strings) |
 | [0295-find-median-from-data-stream](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0346-moving-average-from-data-stream](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0346-moving-average-from-data-stream) |
