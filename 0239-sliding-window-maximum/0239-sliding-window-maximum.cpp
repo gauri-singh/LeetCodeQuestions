@@ -1,36 +1,27 @@
 class Solution {
 public:
     vector<int> maxSlidingWindow(vector<int>& nums, int k) {
-        // 'ans' will store the maximums for each window of size k.
-        vector<int> ans;
-        
-        // 'dq' is a double-ended queue that will store *indices*
-        // We'll maintain 'dq' so that 'nums[dq.front()]' is the maximum within the  current window.
-        // Also, 'nums[dq]' is in *decreasing order* from front to back.
-        deque<int> dq;
-        int l = 0, r = 0;
-        while (r < (int)nums.size()) {
-            //    Pop from the back while 'nums[r]' is greater than 'nums[dq.back()]'
-            //    so that the front always holds the largest element.
-            while (!dq.empty() && nums[r] > nums[dq.back()]) {
+        int l=0, r=0;
+        deque<int> dq;// will hold the max value in the front of the deque always 
+        //deque of indices
+        //deque is strictly non increasing
+        vector<int> res;
+        while(r<nums.size()){
+            while(!dq.empty() && nums[r]>nums[dq.back()]){
+                //we have found a larger number we need to push to its appropriate place
                 dq.pop_back();
             }
             dq.push_back(r);
-
-          //If the front of the deque points to an index that is *out of this window* (i.e., < 'l'), pop it from the front. This ensures the front always corresponds to the valid range [l..r].
-            if (dq.front() < l) {
+            if(dq.front()<l){
+                //this index is no longer in the window
                 dq.pop_front();
             }
-            //    We only start adding results to 'ans' once 'r+1 >= k', meaning we've processed at least k elements i.e, window size.
-            if (r + 1 >= k) {
-                // The front of 'dq' is the index of the window's maximum.
-                ans.push_back(nums[dq.front()]);
-                // Move the left pointer to shrink the window from the left
-                l++;
+            if(r+1>=k){
+                res.push_back(nums[dq.front()]);// we only start pushing to result once the window is of size k
+                l++;// these conditions would be true everytime once we create the first window of size k
             }
             r++;
         }
-        
-        return ans;
+        return res;
     }
 };
