@@ -103,6 +103,7 @@ LeetCode profile : gauri97
 | [0139-word-break](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0212-word-search-ii) |
 | [0227-basic-calculator-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0227-basic-calculator-ii) |
 | [0246-strobogrammatic-number](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0246-strobogrammatic-number) |
 | [0249-group-shifted-strings](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0249-group-shifted-strings) |
@@ -185,6 +186,7 @@ LeetCode profile : gauri97
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0217-contains-duplicate) |
@@ -698,6 +700,7 @@ LeetCode profile : gauri97
 | [0078-subsets](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0131-palindrome-partitioning) |
+| [0212-word-search-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0494-target-sum) |
 | [0865-robot-room-cleaner](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0865-robot-room-cleaner) |
 ## Trie
@@ -707,6 +710,7 @@ LeetCode profile : gauri97
 | [0139-word-break](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0212-word-search-ii) |
 | [0588-design-in-memory-file-system](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0588-design-in-memory-file-system) |
 | [1397-search-suggestions-system](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1397-search-suggestions-system) |
 ## Union Find
@@ -724,6 +728,7 @@ LeetCode profile : gauri97
 | [0036-valid-sudoku](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0036-valid-sudoku) |
 | [0130-surrounded-regions](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0212-word-search-ii) |
 | [0286-walls-and-gates](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0286-walls-and-gates) |
 | [0289-game-of-life](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0289-game-of-life) |
 | [0348-design-tic-tac-toe](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0348-design-tic-tac-toe) |
