@@ -465,6 +465,7 @@ LeetCode profile : gauri97
 | [0355-design-twitter](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0355-design-twitter) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0621-task-scheduler) |
+| [0744-network-delay-time](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1014-k-closest-points-to-origin) |
@@ -555,6 +556,7 @@ LeetCode profile : gauri97
 | [0684-redundant-connection](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0744-network-delay-time) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0854-making-a-large-island](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0854-making-a-large-island) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -589,6 +591,7 @@ LeetCode profile : gauri97
 | [0684-redundant-connection](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0744-network-delay-time) |
 | [0854-making-a-large-island](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0854-making-a-large-island) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -753,6 +756,7 @@ LeetCode profile : gauri97
 | [0261-graph-valid-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0684-redundant-connection](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0744-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
@@ -826,4 +830,8 @@ LeetCode profile : gauri97
 |  |
 | ------- |
 | [0865-robot-room-cleaner](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0865-robot-room-cleaner) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
