@@ -72,6 +72,7 @@ LeetCode profile : gauri97
 | [0344-reverse-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0392-is-subsequence) |
 | [0408-valid-word-abbreviation](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0408-valid-word-abbreviation) |
+| [0443-string-compression](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0680-valid-palindrome-ii) |
@@ -116,6 +117,7 @@ LeetCode profile : gauri97
 | [0408-valid-word-abbreviation](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0408-valid-word-abbreviation) |
 | [0415-add-strings](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0516-longest-palindromic-subsequence) |
 | [0536-construct-binary-tree-from-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0536-construct-binary-tree-from-string) |
 | [0567-permutation-in-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0567-permutation-in-string) |
