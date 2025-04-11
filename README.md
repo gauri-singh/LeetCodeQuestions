@@ -19,6 +19,7 @@ LeetCode profile : gauri97
 | [0139-word-break](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0146-lru-cache) |
+| [0202-happy-number](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0219-contains-duplicate-ii) |
@@ -65,6 +66,7 @@ LeetCode profile : gauri97
 | [0141-linked-list-cycle](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0202-happy-number) |
 | [0246-strobogrammatic-number](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0246-strobogrammatic-number) |
 | [0253-meeting-rooms-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0283-move-zeroes) |
@@ -391,6 +393,7 @@ LeetCode profile : gauri97
 | [0066-plus-one](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0273-integer-to-english-words) |
 | [0415-add-strings](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0415-add-strings) |
