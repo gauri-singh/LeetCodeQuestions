@@ -5,7 +5,7 @@ public:
         unordered_map<char,int> indegree;
         for(auto word: words){
             for(char ch: word){
-                adj[ch]=unordered_set<char>();// initialize all nodes
+                adj[ch]=unordered_set<char>();// initialize all unique character i.e, nodes
                 indegree[ch]=0;
             }
         }
