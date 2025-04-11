@@ -112,6 +112,7 @@ LeetCode profile : gauri97
 | [0227-basic-calculator-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0227-basic-calculator-ii) |
 | [0246-strobogrammatic-number](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0246-strobogrammatic-number) |
 | [0249-group-shifted-strings](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0249-group-shifted-strings) |
+| [0269-alien-dictionary](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0271-encode-and-decode-strings) |
 | [0273-integer-to-english-words](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0273-integer-to-english-words) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -203,6 +204,7 @@ LeetCode profile : gauri97
 | [0249-group-shifted-strings](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0249-group-shifted-strings) |
 | [0252-meeting-rooms](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0253-meeting-rooms-ii) |
+| [0269-alien-dictionary](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0271-encode-and-decode-strings) |
 | [0283-move-zeroes](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0283-move-zeroes) |
 | [0286-walls-and-gates](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0286-walls-and-gates) |
@@ -553,6 +555,7 @@ LeetCode profile : gauri97
 | [0230-kth-smallest-element-in-a-bst](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0261-graph-valid-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0261-graph-valid-tree) |
+| [0269-alien-dictionary](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0269-alien-dictionary) |
 | [0270-closest-binary-search-tree-value](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0270-closest-binary-search-tree-value) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0314-binary-tree-vertical-order-traversal) |
@@ -592,6 +595,7 @@ LeetCode profile : gauri97
 | [0210-course-schedule-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0226-invert-binary-tree) |
 | [0261-graph-valid-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0261-graph-valid-tree) |
+| [0269-alien-dictionary](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0269-alien-dictionary) |
 | [0286-walls-and-gates](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0286-walls-and-gates) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0314-binary-tree-vertical-order-traversal) |
@@ -769,6 +773,7 @@ LeetCode profile : gauri97
 | [0207-course-schedule](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0261-graph-valid-tree) |
+| [0269-alien-dictionary](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0269-alien-dictionary) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0684-redundant-connection](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0744-network-delay-time) |
@@ -777,6 +782,7 @@ LeetCode profile : gauri97
 | ------- |
 | [0207-course-schedule](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0210-course-schedule-ii) |
+| [0269-alien-dictionary](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0269-alien-dictionary) |
 ## Bucket Sort
 |  |
 | ------- |
