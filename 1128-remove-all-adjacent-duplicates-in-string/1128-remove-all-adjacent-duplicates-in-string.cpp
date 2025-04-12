@@ -1,15 +1,14 @@
 class Solution {
 public:
     string removeDuplicates(string s) {
-        //using stack as a vector for easy string conversion
-       vector<int> stackVec;
+       string result;// we could use a vector but that would just be extra space
        for(auto ch: s){
-            if(!stackVec.empty() && stackVec.back()==ch){
-               stackVec.pop_back();
+            if(!result.empty() && result.back()==ch){
+               result.pop_back();
             }else{
-                stackVec.push_back(ch);
+                result+=ch;
             }
        }
-       return string(stackVec.begin(),stackVec.end());
+       return result;
     }
 };
