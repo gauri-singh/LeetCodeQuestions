@@ -6,7 +6,7 @@ public:
             if(!result.empty() && result.back()==ch){
                result.pop_back();
             }else{
-                result+=ch;
+                result.push_back(ch);
             }
        }
        return result;
