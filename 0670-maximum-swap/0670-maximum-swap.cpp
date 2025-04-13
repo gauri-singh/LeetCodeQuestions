@@ -1,50 +1,41 @@
 class Solution {
 public:
-//optimal greedy
+//preferred way:
     int maximumSwap(int num) {
-        string str=to_string(num);
-        int n=str.length();
-        int maxIndex=-1;
-        int swapIndex1=-1, swapIndex2=-1;
-        //storing the index with max value to the right of the current character
-        for(int i=n-1;i>=0;i--){
+        string str= to_string(num);
+        int maxIndex=-1, swapIndex1=-1, swapIndex2=-1;
+        for(int i=str.length()-1;i>=0;i--){
             if(maxIndex==-1 || str[i]>str[maxIndex]){
                 maxIndex=i;
-            }else if(str[i]< str[maxIndex]){
-                //current index is smaller than max index and can be used for swapping later
-                //since we need the smaller number to be as close to the start as possible we can just keep repeating it so we find the last from right, smallest number which can be swapped.
-              swapIndex1=i;
-              swapIndex2=maxIndex;
+            }else if(str[i]<str[maxIndex]){
+                //can't do just else otherwise will get error for repeated max digits
+                swapIndex1=maxIndex;
+                swapIndex2=i;
             }
         }
-        if(swapIndex2!=-1 && swapIndex1!=-1){
-            swap(str[swapIndex2],str[swapIndex1]);
+        if(swapIndex1!=-1 && swapIndex2!=-1){
+            swap(str[swapIndex1],str[swapIndex2]);
+            return stoi(str);
         }
-      return stoi(str);
+        return num;
     }
+/*minmer's technique
+    int maximumSwap(int num) {
+        string str= to_string(num);
+        vector<int> rightMostIndex(10,-1);
+        for(int i=0;i<str.length();i++){
+            int n= str[i]-'0';
+            rightMostIndex[n]=i;
+        }
+        for(int i=0;i<str.length();i++){
+            int currNum=str[i]-'0';
+            for(int j=9;j>currNum;j--){
+                if(rightMostIndex[j]>i){
+                    swap(str[i],str[rightMostIndex[j]]);// swap current number with index stored in the vector
+                    return stoi(str);
+                }
+            }
+        }
+        return num;
+    }*/
 };
-//2 pass greedy
-// class Solution {
-// public:
-//     int maximumSwap(int num) {
-//         string str=to_string(num);
-//         int n=str.length();
-//         vector<char>maxRight(n,'0');
-//         maxRight[n-1]=n-1;
-//         //storing the index with max value to the right of the current character
-//         for(int i=n-2;i>=0;i--){
-//             if(str[i]>str[maxRight[i+1]]){
-//                 maxRight[i]=i;
-//             }else{
-//                 maxRight[i]=maxRight[i+1];
-//             }
-//         }
-//         for(int i=0;i<n;i++){
-//             if(str[i]<str[maxRight[i]]){
-//                 swap(str[i],str[maxRight[i]]);
-//                 return stoi(str);
-//             }
-//         }
-//       return stoi(str);
-//     }
-// };
