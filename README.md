@@ -261,6 +261,7 @@ LeetCode profile : gauri97
 | [1127-last-stone-weight](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1397-search-suggestions-system](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1397-search-suggestions-system) |
+| [1646-kth-missing-positive-number](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1646-kth-missing-positive-number) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1829-maximum-units-on-a-truck](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1829-maximum-units-on-a-truck) |
 | [1909-buildings-with-an-ocean-view](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1909-buildings-with-an-ocean-view) |
@@ -432,6 +433,7 @@ LeetCode profile : gauri97
 | [1046-max-consecutive-ones-iii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1397-search-suggestions-system](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1397-search-suggestions-system) |
+| [1646-kth-missing-positive-number](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1646-kth-missing-positive-number) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2045-cutting-ribbons](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/2045-cutting-ribbons) |
 | [2165-plates-between-candles](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/2165-plates-between-candles) |
