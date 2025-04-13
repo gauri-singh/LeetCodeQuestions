@@ -1,54 +1,37 @@
 class Solution {
 public:
     bool isNumber(string s) {
-        bool seenDigit=false, seenDot=false;
-        if(s[0]=='+' || s[0]=='-'){
-            s=s.substr(1);
-        }
+        bool seenDigit=false;
+        bool seenDot=false;
+        bool seenExponent=false;
         for(int i=0;i<s.length();i++){
-            char ch=s[i];
-            if(isalpha(ch)){
-                if(ch!='E' && ch!='e'){
-                    return false;
-                }
-                else{
-                    return seenDigit && isInteger(s.substr(i+1));
-                }
-            }
-            if(isdigit(ch)){
+            if(isdigit(s[i])){
                 seenDigit=true;
             }
-            if(ch=='.'){
-                if(seenDot){
-                    return false; // dot already exists
+            else if(s[i]=='.'){
+                //cant repeat decimal & cant have decimal after exponent
+                if(seenDot || seenExponent){
+                    return false;
                 }
-                else{
-                    seenDot=true;
-                }
+                seenDot=true;
             }
-            if(ch=='+' || ch=='-'){
+            else if((s[i]=='-' || s[i]=='+' )){
+                if(i!=0 && s[i-1]!='e'&&s[i-1]!='E')
+                    return false;
+            }
+            else if(s[i]=='e' || s[i]=='E'){
+                if(seenExponent || !seenDigit){
+                    return false;
+                }
+                seenExponent=true;
+                seenDigit=false;// we need to see another digit after exponent
+            }
+            else{
                 return false;
             }
         }
-        return seenDigit;
-    }
-    //this solves only integer after e
-    bool isInteger(string s){
-        if(s.length()==0){
+        if(!seenDigit)
             return false;
-        }
-        //if sign move on
-        if(s[0]=='+' || s[0]=='-'){
-            s=s.substr(1);
-        }
-        if(s.length()==0){
-            return false;
-        }
-        for(auto ch: s){
-            if(!isdigit(ch)){
-                return false;
-            }
-        }
         return true;
     }
 };
