@@ -539,6 +539,7 @@ LeetCode profile : gauri97
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1624-clone-binary-tree-with-random-pointer](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1624-clone-binary-tree-with-random-pointer) |
+| [1665-diameter-of-n-ary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1665-diameter-of-n-ary-tree) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Depth-First Search
 |  |
@@ -586,6 +587,7 @@ LeetCode profile : gauri97
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1624-clone-binary-tree-with-random-pointer](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1624-clone-binary-tree-with-random-pointer) |
+| [1665-diameter-of-n-ary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1665-diameter-of-n-ary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
