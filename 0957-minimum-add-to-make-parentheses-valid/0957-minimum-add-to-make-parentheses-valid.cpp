@@ -1,18 +1,17 @@
 class Solution {
 public:
     int minAddToMakeValid(string s) {
-        stack<char> st;
         int extra=0,open=0;
         for(auto ch:s){
-            if(ch==')'){
+            if(ch=='('){
+                open++;
+            }
+            else{
                 if(open>0){
                     open--;
                 }else{
-                    extra++; // extra closing paranthesis
+                    extra++;
                 }
-            }
-            else{
-                open++;
             }
         }
         return extra+open;
