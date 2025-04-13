@@ -2,10 +2,10 @@ class Solution {
 public:
     vector<vector<int>> findMissingRanges(vector<int>& nums, int lower, int upper) {
         vector<vector<int>> result;
-        if(nums.size()==0){
+        if(nums.empty()){
             return {{lower,upper}};
         }
-        if(nums[0]-lower>0){
+        if(lower<nums[0]){
             //we don't do -1 here because the result has to include lower and upper too
             result.push_back({lower,nums[0]-1});
         }
@@ -16,7 +16,7 @@ public:
                 result.push_back({nums[i-1]+1,nums[i]-1});
             }
         }
-         if(upper-nums[nums.size()-1]>0){
+         if(nums[nums.size()-1]<upper){
             //we don't do -1 here because the result has to include lower and upper too
             result.push_back({nums[nums.size()-1]+1,upper});
         }
