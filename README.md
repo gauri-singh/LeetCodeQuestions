@@ -19,6 +19,7 @@ LeetCode profile : gauri97
 | [0139-word-break](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0217-contains-duplicate) |
@@ -199,6 +200,7 @@ LeetCode profile : gauri97
 | [0162-find-peak-element](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0162-find-peak-element) |
 | [0163-missing-ranges](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0163-missing-ranges) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0212-word-search-ii) |
@@ -322,6 +324,7 @@ LeetCode profile : gauri97
 | [0056-merge-intervals](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0217-contains-duplicate) |
 | [0252-meeting-rooms](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0252-meeting-rooms) |
@@ -474,6 +477,7 @@ LeetCode profile : gauri97
 | [0023-merge-k-sorted-lists](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1014-k-closest-points-to-origin) |
@@ -727,6 +731,7 @@ LeetCode profile : gauri97
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0778-reorganize-string) |
