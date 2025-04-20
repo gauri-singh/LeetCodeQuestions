@@ -41,6 +41,7 @@ LeetCode profile : gauri97
 | [0768-partition-labels](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0807-custom-sort-string) |
+| [0816-design-hashset](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0816-design-hashset) |
 | [0876-hand-of-straights](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1023-time-based-key-value-store](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1023-time-based-key-value-store) |
@@ -249,6 +250,7 @@ LeetCode profile : gauri97
 | [0739-daily-temperatures](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0792-binary-search) |
+| [0816-design-hashset](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0816-design-hashset) |
 | [0854-making-a-large-island](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0854-making-a-large-island) |
 | [0876-hand-of-straights](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0883-car-fleet) |
@@ -365,6 +367,7 @@ LeetCode profile : gauri97
 | [0206-reverse-linked-list](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0355-design-twitter) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
+| [0816-design-hashset](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0816-design-hashset) |
 | [0850-insert-into-a-sorted-circular-linked-list](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0850-insert-into-a-sorted-circular-linked-list) |
 ## Recursion
 |  |
@@ -464,6 +467,7 @@ LeetCode profile : gauri97
 | [0355-design-twitter](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0355-design-twitter) |
 | [0588-design-in-memory-file-system](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0588-design-in-memory-file-system) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0816-design-hashset](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0816-design-hashset) |
 | [1023-time-based-key-value-store](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1023-time-based-key-value-store) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/1713-dot-product-of-two-sparse-vectors) |
 ## Doubly-Linked List
@@ -680,6 +684,7 @@ LeetCode profile : gauri97
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0572-subtree-of-another-tree) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0816-design-hashset](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0816-design-hashset) |
 ## Binary Search Tree
 |  |
 | ------- |
