@@ -36,7 +36,9 @@ vector<Node*> hashSet;
         Node* curr= hashSet[hash];
         while(curr->next){
             if(curr->next->key==key){
-                curr->next=curr->next->next;
+                Node* temp = curr->next;
+                curr->next = temp->next;
+                delete temp;
                 return;
             }
             curr=curr->next;
