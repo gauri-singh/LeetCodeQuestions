@@ -24,6 +24,7 @@ LeetCode profile : gauri97
 | [0208-implement-trie-prefix-tree](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0229-majority-element-ii) |
 | [0246-strobogrammatic-number](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0246-strobogrammatic-number) |
 | [0249-group-shifted-strings](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0249-group-shifted-strings) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0314-binary-tree-vertical-order-traversal) |
@@ -209,6 +210,7 @@ LeetCode profile : gauri97
 | [0215-kth-largest-element-in-an-array](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0239-sliding-window-maximum) |
 | [0249-group-shifted-strings](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0249-group-shifted-strings) |
@@ -330,6 +332,7 @@ LeetCode profile : gauri97
 | [0169-majority-element](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0229-majority-element-ii) |
 | [0252-meeting-rooms](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0295-find-median-from-data-stream) |
@@ -739,6 +742,7 @@ LeetCode profile : gauri97
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/gauri-singh/LeetCodeQuestions/tree/master/0778-reorganize-string) |
