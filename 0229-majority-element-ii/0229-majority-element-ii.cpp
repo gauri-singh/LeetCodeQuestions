@@ -1,6 +1,8 @@
 class Solution {
 public:
     vector<int> majorityElement(vector<int>& nums) {
+        // since majority element is n/3, at most we can have only 2 elements that can be majority element
+        // maintain a hashmap of size 2, if ever there are 3 elements, decrement the count of every number and remove the elemnt with count 0, if all elements are removed, no worries, majority would repopulate again ( neetcode way, this is similar but without hashmap which helps for 2nd pass)
         int count1 = 0, count2 = 0;
         int candidate1 = 0, candidate2 = 1;
         // 1st pass: Find potential candidates
